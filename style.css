@@ -1,0 +1,19 @@
+.alto {
+ background-color: #c3e887;
+ height: 300px;
+}
+
+.largo {
+    background-color: #ffe396;
+    width: 200px;
+}
+
+.bordado {
+    background-color: #af9bcc;
+    border: 5px solid pink;
+    display: block;
+    height: 40px;
+}
+.sumido {
+    display: none;
+}
